@@ -11,6 +11,10 @@ public class DemoSpringApplication {
 		
 		System.out.println("welcome to git hub !");
 		System.out.println("you are now write coeds and update plz !");
+		int a =10
+			int b =20;
+		int k =a+b;
+		System.out.println("result is :" +k);
 	}
 
 }
