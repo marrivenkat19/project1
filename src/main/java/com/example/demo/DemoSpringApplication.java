@@ -10,6 +10,7 @@ public class DemoSpringApplication {
 		SpringApplication.run(DemoSpringApplication.class, args);
 		
 		System.out.println("welcome to git hub !");
+		System.out.println("you are now write coeds and update plz !");
 	}
 
 }
